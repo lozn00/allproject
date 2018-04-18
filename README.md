@@ -60,4 +60,6 @@
 
 暂不开源
 
-11. 
+11. 快速开发框架
+工具类众多，还包含主题的修改定制兼容、网络请求的封装、刷新的封装、base base activity lazy fragment 等全家桶
+[https://github.com/qssq/QuickDevelopFrame](https://github.com/qssq/QuickDevelopFrame)
