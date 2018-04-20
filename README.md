@@ -60,6 +60,17 @@
 
 暂不开源
 
-11. 快速开发框架
+11 . 快速开发框架
 工具类众多，还包含主题的修改定制兼容、网络请求的封装、刷新的封装、base base activity lazy fragment 等全家桶
 [https://github.com/qssq/QuickDevelopFrame](https://github.com/qssq/QuickDevelopFrame)
+
+12 . 基于系统播放器的列表播放实现模块管理、各种缩放模式
+
+http://github.com/qssq/videoplayer
+
+13、仿腾讯微视闪现进度条
+
+https://github.com/qssq/progressview
+
+14 . 方块任意方向进度条
+https://github.com/qssq/Progress-block-Progress-Bar-qq
