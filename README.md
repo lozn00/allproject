@@ -75,42 +75,78 @@ https://github.com/qssq/progressview
 
 14 . 方块任意方向进度条
 https://github.com/qssq/Progress-block-Progress-Bar-qq
+
+
 15 .神之手
 无需root 的xposed环境框架 .
 https://github.com/qssq/GodHand
+
+
 16. 破解酷开桌面 替换创维自带桌面 让老年人使用更简单,想自动启动就自动电视,可设置任意应用开机启动.
 https://github.com/qssq/CustomTVDesktopLauncher
 
-17. 破解创维酷开应用市场安装限制
-18. 有了它,你可以随便选择任意应用添加白名单,添加白名单后,改应用申请安装就不会弹出禁止安装.
+
+
+17. 破解创维酷开应用市场安装限制 有了它,你可以随便选择任意应用添加白名单,添加白名单后,改应用申请安装就不会弹出禁止安装.
 https://github.com/qssq/CrackAppInstalLimit
+
+
+
 19  镂空view
 https://github.com/qssq/HollowOutView
 
+
 下面的没有参考意义 
+
+
 19. alipay api call 
 https://github.com/qssq/alipaylinkQuery
+
+
 20 .rest full api 
 https://github.com/qssq/restful 
+
+
 21  asm str encrypt 
 https://github.com/qssq/asm_str_encrypt
+
+
 22  wx plugin 
 https://github.com/qssq/wplusplus
+
+
 23 linux cpp learn 
 https://github.com/qssq/linuxcpp.git
+
+
 24  q 
 https://github.com/qssq/qqplusplus
+
+
 25 hijick demo
 https://github.com/qssq/hijickdemo
+
+
 26 soobfuscator
 https://github.com/qssq/soobfuscator
+
+
 27 StringHunXiaoNew
 https://github.com/qssq/StringHunXiaoNew
+
+
 28 ndkProjectCMakeAndNDKBuild
 https://github.com/qssq/ndkProjectCMakeAndNDKBuild
+
+
 29  cmake study
 https://github.com/qssq/makeStudy
+
+
 30 net website
 https://github.com/qssq/2014.Net
+
+
+
 31 robot plugin
 https://github.com/qssq/robot_plugin_ui
