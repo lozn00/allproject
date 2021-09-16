@@ -50,15 +50,16 @@
 [https://github.com/qssq/DBUtilX](https://github.com/qssq/DBUtilX)
 
 9.**java源代码字符串一键加密解密工具**
-
+基于源代码级别的字符串加密 解密,由于没时间也没心情去构建框架,故基本目录写死,可对java源码的字符串进行加密也可以常量抽取,常量抽取容易遇到代码过长问题,需要抽取到多个目录才能解决问题,目前这个暂时没弄,对被加密后的new int[]{xx} 或者常量抽取的,都可以进行加密.也可以设置自定义方法解密,对于第三方应用可以直接抽取成jar包实现自动解密.
+https://github.com/qssq/StrEncrypt
 
 
 暂不开源
 
 
-10.**AndridhookTool**
-
-暂不开源
+10.**HOOKUI**
+任意应用侵入 注入控制空间,可窥探窗口创建/ 字符串构建/对话框/点击事件/内存扫描搜索/activity快照保存  界面字符串一键替换编辑等等. 
+https://github.com/qssq/hookui
 
 11 . 快速开发框架
 工具类众多，还包含主题的修改定制兼容、网络请求的封装、刷新的封装、base base activity lazy fragment 等全家桶
@@ -74,3 +75,42 @@ https://github.com/qssq/progressview
 
 14 . 方块任意方向进度条
 https://github.com/qssq/Progress-block-Progress-Bar-qq
+15 .神之手
+无需root 的xposed环境框架 .
+https://github.com/qssq/GodHand
+16. 破解酷开桌面 替换创维自带桌面 让老年人使用更简单,想自动启动就自动电视,可设置任意应用开机启动.
+https://github.com/qssq/CustomTVDesktopLauncher
+
+17. 破解创维酷开应用市场安装限制
+18. 有了它,你可以随便选择任意应用添加白名单,添加白名单后,改应用申请安装就不会弹出禁止安装.
+https://github.com/qssq/CrackAppInstalLimit
+19  镂空view
+https://github.com/qssq/HollowOutView
+
+下面的没有参考意义 
+19. alipay api call 
+https://github.com/qssq/alipaylinkQuery
+20 .rest full api 
+https://github.com/qssq/restful 
+21  asm str encrypt 
+https://github.com/qssq/asm_str_encrypt
+22  wx plugin 
+https://github.com/qssq/wplusplus
+23 linux cpp learn 
+https://github.com/qssq/linuxcpp.git
+24  q 
+https://github.com/qssq/qqplusplus
+25 hijick demo
+https://github.com/qssq/hijickdemo
+26 soobfuscator
+https://github.com/qssq/soobfuscator
+27 StringHunXiaoNew
+https://github.com/qssq/StringHunXiaoNew
+28 ndkProjectCMakeAndNDKBuild
+https://github.com/qssq/ndkProjectCMakeAndNDKBuild
+29  cmake study
+https://github.com/qssq/makeStudy
+30 net website
+https://github.com/qssq/2014.Net
+31 robot plugin
+https://github.com/qssq/robot_plugin_ui
