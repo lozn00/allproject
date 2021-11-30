@@ -1,4 +1,8 @@
-# 我的所有精彩项目汇总
+# 我的所有项目汇总
+
+1. 可编辑下拉列表
+
+[https://github.com/qssq/EditableSpinner](https://github.com/qssq/EditableSpinner)
 
 仿映客礼物动画弹出条支持队列
 
