@@ -1,25 +1,17 @@
 # 我的所有项目汇总
 
 1. 可编辑下拉列表
-
 [https://github.com/qssq/EditableSpinner](https://github.com/qssq/EditableSpinner)
-
 仿映客礼物动画弹出条支持队列
-
 1. 垂直指示器扩展实现根据MagicIndicator改造
 https://github.com/qssq/VerticalMagicIndicator
 
 1. 安卓跨进程通讯机器人[2022年决定开源]
-
 [https://github.com/qssq/ROBOT](https://github.com/qssq/robot)
-
 Q++实现了,发送文本,图片,禁言,赞,查看股票行情等功能,以此就感觉机器人很强大了,其实发送消息的功能是由Q++xposed插件实现,xposed插件注册了机器人软件的服务,拿到了机器人软件的aidl api设置了对应的回调,收到消息的时候也传递给了机器人,因此才能让机器人完整的跑起来,至于股票行情,行情订阅自动发送是写的机器人插件,然后让机器人加载就行了.
 本软件不包含任何侵权代码,如有请反馈给我进行删除.本软件并没有实现对应的api.需要用户执行编写软件或者xposed插件 进行对应了绑定操作才能使其完整运行.如果只是想改改,可以写一个demo发送消息给机器人,
 
-
-
 1.**录音工具类**可定制录制格式轻松切换
-
 [https://github.com/qssq/recordutil](https://github.com/qssq/recordutil)
 
 
@@ -52,8 +44,7 @@ Q++实现了,发送文本,图片,禁言,赞,查看股票行情等功能,以此�
 
 
 
-[https://github.com/qssq/radiogroupx](https://github.com/qssq/
-radiogroupx)
+[https://github.com/qssq/radiogroupx](https://github.com/qssq/radiogroupx)
 
 5. slidemenu
 
@@ -85,7 +76,7 @@ https://github.com/qssq/hookui
 
 11 . 快速开发框架
 工具类众多，还包含主题的修改定制兼容、网络请求的封装、刷新的封装、base base activity lazy fragment 等全家桶
-[https://github.com/qssq/QuickDevelopFrame](https://github.com/qssq/QuickDevelopFrame)
+https://github.com/qssq/QuickDevelopFrame
 
 12 . 基于系统播放器的列表播放实现模块管理、各种缩放模式
 
