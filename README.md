@@ -6,6 +6,15 @@
 
 仿映客礼物动画弹出条支持队列
 
+1. 垂直指示器扩展实现根据MagicIndicator改造
+https://github.com/qssq/VerticalMagicIndicator
+
+1. 安卓跨进程通讯机器人[2022年决定开源]
+
+[https://github.com/qssq/ROBOT](https://github.com/qssq/robot)
+
+Q++实现了,发送文本,图片,禁言,赞,查看股票行情等功能,以此就感觉机器人很强大了,其实发送消息的功能是由Q++xposed插件实现,xposed插件注册了机器人软件的服务,拿到了机器人软件的aidl api设置了对应的回调,收到消息的时候也传递给了机器人,因此才能让机器人完整的跑起来,至于股票行情,行情订阅自动发送是写的机器人插件,然后让机器人加载就行了.
+本软件不包含任何侵权代码,如有请反馈给我进行删除.本软件并没有实现对应的api.需要用户执行编写软件或者xposed插件 进行对应了绑定操作才能使其完整运行.如果只是想改改,可以写一个demo发送消息给机器人,
 
 
 
@@ -14,7 +23,9 @@
 [https://github.com/qssq/recordutil](https://github.com/qssq/recordutil)
 
 
+1. 导航蒙版view
 
+[https://github.com/qssq/HollowOutView](https://github.com/qssq/HollowOutView)
 
 
 
@@ -41,13 +52,20 @@
 
 
 
-[https://github.com/qssq/radiogroupx](https://github.com/qssq/radiogroupx)
+[https://github.com/qssq/radiogroupx](https://github.com/qssq/
+radiogroupx)
+
+5. slidemenu
+
+[https://github.com/qssq/slidemenu.git](https://github.com/qssq/slidemenu.git)
+
+
 
 6.**IOSSwitchBtn**高仿ios 微信绿色 switchbtn 可自定义颜色
 
 [https://github.com/qssq/IOSSwitchBtn](https://github.com/qssq/IOSSwitchBtn)
 
-7.**videoplayer** 视频播放器,系统自带,支持设置各种模式,可实现动态登录背景（具体看简书）
+
 
 8.**DBUtilX** 升级字段省心省力的工具类,可实现一个class构建多个表，自动升级字段类型自定义sqlite3存储类型不受java字段类型影响
 
@@ -72,6 +90,7 @@ https://github.com/qssq/hookui
 12 . 基于系统播放器的列表播放实现模块管理、各种缩放模式
 
 http://github.com/qssq/videoplayer
+7.**videoplayer** 视频播放器,系统自带,支持设置各种模式,可实现动态登录背景（具体看简书）
 
 13、仿腾讯微视闪现进度条
 
@@ -109,6 +128,11 @@ https://github.com/qssq/alipaylinkQuery
 
 20 .rest full api 
 https://github.com/qssq/restful 
+
+20.  水平刷新view基于官方垂直刷新改造.
+HorizontalSwipeRefreshLayout
+https://github.com/qssq/HorizontalSwipeRefreshLayout
+
 
 
 21  asm str encrypt 
